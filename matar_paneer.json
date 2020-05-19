@@ -1,0 +1,54 @@
+[
+    {
+	"id": "50",
+    "name": "Matar Paneer",
+	"description": "a creamy and rich north indian curry recipe prepared from paneer cubes and green peas. it is an ideal gravy based curry recipe to be served with rice, roti, chapati or any indian flat breads. it is very easy and simple sabji to make with basic ingredients easily available in most of the indian kitchens.",
+	"imageURL": "https://www.cubesnjuliennes.com/wp-content/uploads/2020/02/Matar-Paneer.jpg",
+	"servingsize": "2",
+	"preptime": "40min",
+        "ingredients": [
+            {
+                "quantity": "50g",
+                "name": "Peas",
+                "type": "Vegetable"
+            },
+            {
+                "quantity": "100g",
+                "name": "Paneer",
+                "type": "Dairy Product"
+            },
+            {
+                "quantity": "2",
+                "name": "onions",
+                "type": "Vegetable"
+            },
+            {
+                "quantity": "2",
+                "name": "Tomatoes",
+                "type": "Vegetable"
+            },
+            {
+                "quantity": "10g",
+                "name": "Ginger Garlic Paste",
+                "type": "Spices"
+            },
+	    {
+                "quantity": "1-¼ tsp",
+                "name": "Cumin Powder, Salt, Coriander Powder, Garam Masala, kasuri methi",
+                "type": "Spices"
+            }
+
+        ],
+        "steps": [
+            "In a large kadai heat 2 tbsp oil and saute spices.",
+            "add in prepared onion tomato paste and saute well.",
+	    "further add ¼ tsp cumin powder, 1 tsp coriander powder and 1 tsp salt.",
+            "now add 1 cup water and stir well.",
+            "add in 1 cup peas and stir well. cover and cook for 10 minutes."
+	    "add in 12 cubes paneer and simmer for 10 minutes.",
+	    "now add 2 tbsp coriander, ¼ tsp garam masala and 1 tsp kasuri methi.",
+	    "finally, enjoy matar paneer with roti or rice!",
+        ],
+       
+  
+    },
